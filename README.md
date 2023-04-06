@@ -9,10 +9,11 @@ Tkinter offers a high degree of customization, allowing developers to create uni
 Python provides a variety of choices for GUI development (Graphical User Interface). Tkinter is the approach used the most frequently among all GUI approaches. It is a typical Python interface for the Python-supplied Tk GUI toolkit. The fastest and simplest approach to constructing GUI apps is with Python and Tkinter. It's simple to build a GUI of Simple Calculator using Tkinter.
 1. Install the Tkinter Library in System (Linux, Windows,macOS)<br>
 2. Open a command prompt or terminal window.<br>
+<img width="863" alt="cmd" src="https://user-images.githubusercontent.com/71897920/230414892-4aa23164-1c8d-40b7-b1fa-fcf7bdadca44.png"> <br>
+3. Use the following command to install Tkinter via pip:<br>
 
+pip install tk <br>
 
-Command Prompt3. Use the following command to install Tkinter via pip:<br>
-pip install tk
 If you are using Python 2, you may need to use the following command instead:
 pip2 install tk
 Once the installation is complete, you should be able to import the Tkinter library in your Python code using the following line:
